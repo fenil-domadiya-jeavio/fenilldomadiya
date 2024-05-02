@@ -24,9 +24,9 @@
 <!-- ![Dhiraj trophy](https://github-profile-trophy.vercel.app/?username=dhiraj-01&margin-w=15)  -->
 <!-- ![Dhiraj top langs](https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-01&show_icons=true&locale=en&layout=compact)   -->
 
-![Fenil github stats](https://github-readme-stats.vercel.app/api?username=fad1105&show_icons=true) 
+![Fenil github stats](https://github-readme-stats.vercel.app/api?username=fenilldomadiya&show_icons=true) 
  
-![Fenil streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fad1105&)  
+![Fenil streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fenilldomadiya&)  
 
 ### Let's Connect
 
